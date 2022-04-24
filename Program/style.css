@@ -1,0 +1,58 @@
+html, body
+{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+.grandParentContainer
+{
+	display: table;
+	height: 100%;
+	margin: 0 auto;
+}
+.parentContainer
+{
+	display: table-cell;
+	vertical-align: middle;
+}
+.centerForm
+{
+	border: 1px solid #E2E2E2;
+	border-radius: 10px 10px;
+	box-shadow: 5px 5px #E2E2E2;
+}
+.paddingTable td
+{
+	padding: 5px 40px;
+}
+.margin-bottom
+{
+	margin-bottom: 20px;
+}
+.form-button
+{
+  background: #106eea;
+  color: white;
+  padding: 5px 15px;
+  border-color: #106eea;
+  border-radius: 10%;
+}
+.form-margin-top
+{
+	margin-top: 20px;
+}
+.updateBtn
+{
+	color: white;
+	background-color: #0584b8;
+}
+.deleteBtn
+{
+	color: white;
+	background-color: #d9534f;
+}
+button a
+{
+	text-decoration: none;
+	color: white;
+}
